@@ -1,0 +1,11 @@
+{
+  "name": "scrap-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  }
+}
